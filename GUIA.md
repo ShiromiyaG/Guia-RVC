@@ -9,7 +9,7 @@
 ##### **Separação de vocais e limpeza de áudio**
 
 - [**MVSEP**](https://mvsep.com/pt/home) contém os melhores modelos de separação de vocais e limpeza de áudio. **Se registre para baixar os arquivos em FLAC e ter filas de espera menores**
-- [**Colab de modelos de separação**](https://colab.research.google.com/github/ShiromiyaG/Guia-RVC/blob/main/Music_Source_Separation_Training_(Colab_Inference)_(Shirou_RVC).ipynb) contém quase todos os modelos de separação de vocais e limpeza de áudio do MVSEP, pórem, sem filas.
+- [**Colab de modelos de separação**](https://colab.research.google.com/github/ShiromiyaG/Guia-RVC-PT-BR/blob/main/Music_Source_Separation_Training_(Colab_Inference)_(Shirou_RVC).ipynb) contém quase todos os modelos de separação de vocais e limpeza de áudio do MVSEP, pórem, sem filas.
 
 ### **1. Separação de vocais (Passo a passo):**
 **Importante: Sempre exporte os arquivos de áudio em FLAC!**
